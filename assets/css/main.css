@@ -145,7 +145,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #f35858;
+			color: #1E90FF;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -2251,7 +2251,7 @@ input, select, textarea {
 			}
 
 			.dropotron li.active > a, .dropotron li.active > span {
-				color: #f35858;
+				color: #1E90FF;
 			}
 
 		.dropotron.level-0 {
@@ -2313,7 +2313,7 @@ input, select, textarea {
 		#hero .button {
 			background: #fff;
 			border-color: rgba(255, 255, 255, 0);
-			color: #f08c89;
+			color: #1E90FF;
 			font-size: 1.25em;
 		}
 
