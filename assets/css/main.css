@@ -2167,7 +2167,7 @@ input, select, textarea {
 
 	#nav {
 		text-align: center;
-		position: absolute;
+		position: fixed;
 		top: 5%;
 		right: 5%;
 		width: 100%;
@@ -2489,10 +2489,12 @@ input, select, textarea {
 
 			#nav {
 				position: relative;
-				margin: 0.5em 0 0 0;
+				margin: 0.5em 0.5em 0.5em 0.5em;
 				line-height: 2.25em;
 				height: 2.25em;
 			}
+
+
 
 				#nav > ul > li {
 					margin-left: 0;
@@ -2814,8 +2816,8 @@ input, select, textarea {
 					height: 100%;
 					left: 0;
 					outline: 0;
-					position: absolute;
-					top: 0;
+					position: fixed;
+					top: 20%;
 					width: 100%;
 				}
 
