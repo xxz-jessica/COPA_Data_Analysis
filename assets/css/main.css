@@ -2108,7 +2108,7 @@ input, select, textarea {
 		background-color: #0099FF; */
 		background-size: 100% 620%;
 		background-size: 128px 128px, 100% 620%, auto;
-		background-repeat: repeat, no-repeat, no-repeat;
+		/* background-repeat: repeat, no-repeat, no-repeat; */
 	}
 
 	.homepage #header-wrapper {
