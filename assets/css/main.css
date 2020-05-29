@@ -2503,14 +2503,16 @@ input, select, textarea {
 
 				#nav > ul > li {
 					margin-left: 0;
+					
 				}
 
 					#nav > ul > li.break {
 						margin-left: 0;
+						
 					}
 
 			.dropotron.level-0 {
-				margin-top: 1.1em;
+				margin-top: 20%;
 			}
 
 		/* Hero */
@@ -2624,6 +2626,7 @@ input, select, textarea {
 
 				#nav > ul > li > span, #nav > ul > li > a {
 					padding: 0.25em 0.5em 0.25em 0.5em;
+					
 				}
 
 		/* Hero */
@@ -2822,7 +2825,7 @@ input, select, textarea {
 					left: 0;
 					outline: 0;
 					position: fixed;
-					top: 20%;
+					top: 30%;
 					width: 100%;
 				}
 
